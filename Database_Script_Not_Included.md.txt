@@ -1,0 +1,7 @@
+# Database Script
+
+The PostgreSQL database used in this repository was created using a pre-defined SQL script provided as part of the learning environment.
+
+The original SQL database creation script is not included because it is not authorised for public distribution.
+
+All SQL queries included in this repository were developed using the available database schema and are intended for educational and portfolio purposes.
